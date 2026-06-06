@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"1a3452d1aa8c24fd","type":"text","text":"LLUVIA DE IDEAS | problemas ","x":-185,"y":-520,"width":445,"height":50},
+		{"id":"04830ad15b5b58f3","type":"text","text":"Las aplicaciones TO DO LIST no permiten organizar las tareas en tiempos ni dias","x":-240,"y":-390,"width":260,"height":270},
+		{"id":"9cd72a64b1343181","type":"text","text":"A las personas les cuesta organizar sus dias en bloques","x":100,"y":-390,"width":286,"height":155},
+		{"id":"11081460de9c5818","type":"text","text":"Las personas normalmente tienen distintas aplicaciones para llevar su organización","x":-760,"y":-393,"width":445,"height":162},
+		{"id":"f55118913c9a02c1","type":"text","text":"Las personas quieren tener acceso rapido a anotar tareas y responsabilidades para luego con más tiempo organizarlas\n","x":-640,"y":-60,"width":378,"height":229},
+		{"id":"6b5e594ebbc32d56","type":"text","text":"Actualmente no hay ninguna aplicación que unifique organización por calendario, por día, y que contenga to do facil de acceder. ","x":-12,"y":-20,"width":398,"height":233},
+		{"id":"85617bd3fea64309","x":-559,"y":853,"width":250,"height":60,"type":"text","text":"todo list"},
+		{"id":"9b9ca46f3dcc7777","x":-110,"y":778,"width":250,"height":60,"type":"text","text":"agenda"},
+		{"id":"079e004a46e6f5b1","x":-203,"y":1005,"width":243,"height":115,"type":"text","text":"mejorar la organizacion de las tareas"},
+		{"id":"eb8161a6e334453d","x":-500,"y":1220,"width":250,"height":60,"type":"text","text":"calendario"},
+		{"id":"6d368ce8bb860c84","x":-51,"y":1257,"width":271,"height":103,"type":"text","text":"organizacion por horas en el dia"},
+		{"id":"8612d0c8de786f8f","x":-326,"y":1400,"width":247,"height":145,"type":"text","text":"asignar opcionalmente a las tareas dia de entrega"},
+		{"id":"ee7b0c686412ec8a","x":-761,"y":1005,"width":261,"height":166,"type":"text","text":"Anotar rapidamente tareas desde celular"},
+		{"id":"d79eb3c7f437cb81","x":360,"y":971,"width":240,"height":149,"type":"text","text":"visualización de tareas de forma sencilla \n"}
+	],
+	"edges":[
+		{"id":"9ad3032f6b4ed1dd","fromNode":"079e004a46e6f5b1","fromSide":"top","toNode":"9b9ca46f3dcc7777","toSide":"bottom"},
+		{"id":"f50953cfdb5683d5","fromNode":"079e004a46e6f5b1","fromSide":"left","toNode":"85617bd3fea64309","toSide":"bottom"},
+		{"id":"28a2384a3c2b173e","fromNode":"079e004a46e6f5b1","fromSide":"bottom","toNode":"eb8161a6e334453d","toSide":"top"},
+		{"id":"3f2019d673127c92","fromNode":"079e004a46e6f5b1","fromSide":"bottom","toNode":"6d368ce8bb860c84","toSide":"top"},
+		{"id":"8b94602ec910d590","fromNode":"9b9ca46f3dcc7777","fromSide":"right","toNode":"6d368ce8bb860c84","toSide":"right"},
+		{"id":"91dd2c4ee2f2f395","fromNode":"85617bd3fea64309","fromSide":"left","toNode":"ee7b0c686412ec8a","toSide":"top"},
+		{"id":"4d743a3b68093813","fromNode":"eb8161a6e334453d","fromSide":"bottom","toNode":"8612d0c8de786f8f","toSide":"left"},
+		{"id":"8c7523c4f19fd764","fromNode":"079e004a46e6f5b1","fromSide":"right","toNode":"d79eb3c7f437cb81","toSide":"left"}
+	]
+}
