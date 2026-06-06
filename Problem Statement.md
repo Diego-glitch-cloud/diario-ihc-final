@@ -51,3 +51,6 @@ Si arthur tuviera que hacer algo de ihc, seguro usaria su libreta para anotar su
 
 ---
 
+# problem statement
+
+Muchos estudiantes de secundaria y universidad se ven forzados a utilizar herramientas y aplicaciones separadas para llevar un correcto control de sus responsabilidades. Algunos tienen que usar una app para To Do list, a la vez que manualmente organizan su día en una agenda y visualizan sus fechas en un calendario de alguna app como Canva. Lo ideal sería tener una aplicación centralizada que permite esas funciones en un mismo lugar de rápido acceso.
